@@ -26,7 +26,9 @@ public class Solution328 {
         PreOdd.next = EvenHead;
         return head;
 
-    }public static void main(String[] args) {
+    }
+
+    public static void main(String[] args) {
         ListNode a = new ListNode(1);
         ListNode b = new ListNode(2);
         ListNode c = new ListNode(3);
